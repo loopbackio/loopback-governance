@@ -3,6 +3,8 @@
 A place for discussing "meta" topics around LoopBack project governance and team
 management.
 
+There are [Technical Steering Committee](https://github.com/loopbackio/loopback-next#technical-steering-committee) and [project maintainers](https://github.com/loopbackio/loopback-next#other-project-maintainers) maintaining this project.
+
 ## How to work in this repo
 
 1. Check the existing open issues for discussions in progress.
