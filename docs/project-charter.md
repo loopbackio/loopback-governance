@@ -115,7 +115,7 @@ _directions: describe the roles and responsibilities of the LoopBack Governing B
 ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#roles-and-organization-management)
 ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-4-responsibilities-of-the-tsc)
 
-The LoopBack TSC is responsible for:
+The LoopBack TSC is responsible for, but not limited to:
 
 - Release dates
 - Creating new releases
