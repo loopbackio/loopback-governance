@@ -179,7 +179,7 @@ has confidence in their general understanding of the Project's codebase, and
 trusts that they are capable for seeking feedback and consensus on non-trivial
 contributions. This role provides permissions to merge pull requests in the
 Project's Git Repositories, and dedicated communication channels with the
-LoopBack TSC. Nomination for the role is done in accordance with
+rest of the LoopBack maintainer community. Nomination for the role is done in accordance with
 [maintainer-nomination.md](./maintainer-nomination.md).
 
 ## Section 5: Definitions (optional)
