@@ -173,7 +173,7 @@ _phrase, 'Section Intentionally Left Blank'._
 
 ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-8-project-roles)
 
-The role of a LoopBack Maintainer is given to those that the the LoopBack TSC
+The role of a LoopBack Maintainer is given to those that the LoopBack TSC
 has confidence in their general understanding of the Project's codebase, and
 trusts that they are capable for seeking feedback and consensus on non-trivial
 contributions. This role provides permissions to merge pull requests in the
