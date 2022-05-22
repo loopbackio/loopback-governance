@@ -60,7 +60,8 @@ _phrase, 'Section Intentionally Left Blank'._
 
 ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#out-of-scope)
 
-Section Intentionally Left Blank
+- Support versions of Node.js at EOL (end of life) stage
+- Contributions that violates the [Code of Conduct](https://github.com/loopbackio/loopback-next/blob/master/docs/CODE_OF_CONDUCT.md)
 
 ## Section 2: Relationship with OpenJS Foundation CPC.
 
