@@ -1,4 +1,4 @@
-# Publish LoopBack Modules
+# Publish LoopBack Modules in loopback-next repos
 
 ## Pre-requisite
 
